@@ -7,4 +7,4 @@ function addSuffix(suffix) {
 
 add_ly = addSuffix('ly');
 
-console.log(add_ly('successful'))
+console.log(add_ly('hopeless'));
