@@ -12,6 +12,7 @@ function minMax(arr) {
         max = arr[i];
       }
     }
+
     returnArr.push(min);
     returnArr.push(max);
     return returnArr;
